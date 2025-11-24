@@ -1,11 +1,6 @@
-好的！下面给你一个 **完整、专业、可直接提交的 README.md**。
-内容已经经过整理、格式化、补充，完全符合 COMP0233 Week 8 Agile Practice 的要求。
 
-你只需要 **复制粘贴整个 README** 到你的项目中即可。
 
----
-
-# 📄 **README.md（完整版，可直接提交）**
+# 📄 **README.md**
 
 ```markdown
 # YaP — Yet Another Phonebook  
